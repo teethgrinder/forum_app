@@ -5,7 +5,8 @@ gem 'bootstrap-sass', '2.0.0'
 gem 'pg', '0.12.2'
 gem 'therubyracer'
 gem 'bcrypt-ruby', '3.0.1'
-
+gem 'will_paginate', '3.0.3'
+gem 'bootstrap-will_paginate', '0.0.6'
 group :development do
 
   gem 'sqlite3', '1.3.5'
